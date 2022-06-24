@@ -20,3 +20,4 @@ TECH STUFFS USED:
      
      FLASK
      
+HTML and CSS is used for UI designing in flask.
